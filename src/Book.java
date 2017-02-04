@@ -5,7 +5,8 @@ import java.util.List;
 /**
  * 책 정보(제목 저자 출판사 가격 분류)저장 클래스
  */
-public class Book {
+public class Book
+{
     String title;
     String writer;
     String publisher;
