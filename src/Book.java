@@ -16,11 +16,7 @@ public class Book
     public List<Book> book = new ArrayList<Book>();
 
     Book() {
-    this.title=title;
-    this.writer=writer;
-    this.publisher=publisher;
-    this.price=price;
-    this.classification=classification;
+
     }
 
 
